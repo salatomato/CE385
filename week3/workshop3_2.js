@@ -10,7 +10,7 @@ function calculate(weight,height) {
         console.log("อ้วน");
     }
     else{
-        console.log("เอ็มอ้วนมาก")
+        console.log("อ้วนมาก")
     }
 
     return bmi;
