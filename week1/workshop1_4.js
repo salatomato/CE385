@@ -9,3 +9,4 @@ if (username == "admin" && password == 1234 && age >= 18){
 } else if(age <= 18){
     console.log("อายุไม่ถึงเกณฑ์")
 }
+

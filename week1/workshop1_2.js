@@ -9,3 +9,4 @@ console.log("mynumber:",mynumber , "- Type:",typeof mynumber);
 console.log("myboolean:",myboolean , "- Type:",typeof myboolean);
 console.log("mynull:",mynull , "- Type:",typeof mynull);
 console.log("myundefined:",myUndefined , "- Type:",typeof myUndefined);
+
